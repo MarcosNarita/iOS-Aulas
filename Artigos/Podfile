@@ -8,5 +8,7 @@ target 'Artigos' do
   
   pod 'SwiftyJSON'
   pod 'Alamofire'
+  pod 'ALLoadingView', '~> 1.1'
+  
  
 end
